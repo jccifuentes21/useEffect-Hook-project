@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/github.io/useEffect-Hook-project/static/css/main.3a4563d7.chunk.css",
+    "main.js": "/github.io/useEffect-Hook-project/static/js/main.54307e7f.chunk.js",
+    "main.js.map": "/github.io/useEffect-Hook-project/static/js/main.54307e7f.chunk.js.map",
+    "runtime-main.js": "/github.io/useEffect-Hook-project/static/js/runtime-main.5fbe2932.js",
+    "runtime-main.js.map": "/github.io/useEffect-Hook-project/static/js/runtime-main.5fbe2932.js.map",
+    "static/js/2.6308b65a.chunk.js": "/github.io/useEffect-Hook-project/static/js/2.6308b65a.chunk.js",
+    "static/js/2.6308b65a.chunk.js.map": "/github.io/useEffect-Hook-project/static/js/2.6308b65a.chunk.js.map",
+    "index.html": "/github.io/useEffect-Hook-project/index.html",
+    "static/css/main.3a4563d7.chunk.css.map": "/github.io/useEffect-Hook-project/static/css/main.3a4563d7.chunk.css.map",
+    "static/js/2.6308b65a.chunk.js.LICENSE.txt": "/github.io/useEffect-Hook-project/static/js/2.6308b65a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fbe2932.js",
+    "static/js/2.6308b65a.chunk.js",
+    "static/css/main.3a4563d7.chunk.css",
+    "static/js/main.54307e7f.chunk.js"
+  ]
+}
