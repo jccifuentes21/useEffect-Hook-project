@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/useEffect-Hook-project/static/css/main.3a4563d7.chunk.css",
-    "main.js": "/useEffect-Hook-project/static/js/main.44c58c28.chunk.js",
-    "main.js.map": "/useEffect-Hook-project/static/js/main.44c58c28.chunk.js.map",
+    "main.js": "/useEffect-Hook-project/static/js/main.d02bda51.chunk.js",
+    "main.js.map": "/useEffect-Hook-project/static/js/main.d02bda51.chunk.js.map",
     "runtime-main.js": "/useEffect-Hook-project/static/js/runtime-main.37d98374.js",
     "runtime-main.js.map": "/useEffect-Hook-project/static/js/runtime-main.37d98374.js.map",
-    "static/js/2.6308b65a.chunk.js": "/useEffect-Hook-project/static/js/2.6308b65a.chunk.js",
-    "static/js/2.6308b65a.chunk.js.map": "/useEffect-Hook-project/static/js/2.6308b65a.chunk.js.map",
+    "static/js/2.99ccee99.chunk.js": "/useEffect-Hook-project/static/js/2.99ccee99.chunk.js",
+    "static/js/2.99ccee99.chunk.js.map": "/useEffect-Hook-project/static/js/2.99ccee99.chunk.js.map",
     "index.html": "/useEffect-Hook-project/index.html",
     "static/css/main.3a4563d7.chunk.css.map": "/useEffect-Hook-project/static/css/main.3a4563d7.chunk.css.map",
-    "static/js/2.6308b65a.chunk.js.LICENSE.txt": "/useEffect-Hook-project/static/js/2.6308b65a.chunk.js.LICENSE.txt"
+    "static/js/2.99ccee99.chunk.js.LICENSE.txt": "/useEffect-Hook-project/static/js/2.99ccee99.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.37d98374.js",
-    "static/js/2.6308b65a.chunk.js",
+    "static/js/2.99ccee99.chunk.js",
     "static/css/main.3a4563d7.chunk.css",
-    "static/js/main.44c58c28.chunk.js"
+    "static/js/main.d02bda51.chunk.js"
   ]
 }
